@@ -1,0 +1,33 @@
+body {
+	background-color: 
+}
+
+h1 {
+    text-decoration: underline;
+}
+
+#line { 
+	background-color: white; 
+	margin: center;
+	border-bottom: 3px solid #d4e157;
+
+}
+
+#line1 { 
+	background-color: white; 
+	border-bottom: 3px solid #d4e157;
+	margin: center;
+}
+
+#btnOk{
+	background-color: #d4e157;
+	position: absolute;
+    right: 180px;
+    width: 50px;
+    height: 20px;
+ 
+}
+
+input{
+	border: 0px;
+}
